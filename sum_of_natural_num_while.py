@@ -1,0 +1,9 @@
+n=int(input("Please enter a number"))
+
+sum=0
+i=1
+while i<= n:
+    sum=sum+i
+    i=i+1
+
+print("The sum is:",sum)
